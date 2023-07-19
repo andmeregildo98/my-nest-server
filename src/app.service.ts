@@ -20,7 +20,6 @@ const sample = [
   {code: '00000',description: 'This is a sample description of Card 00',name: 'Card number 00', price: 1.00},
 ]
 
-
 @Injectable()
 export class AppService {
   getHello(): string {
